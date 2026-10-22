@@ -72,7 +72,7 @@ I think in systems. I want to understand a problem before I build, clarify befor
 
 | Project | Description | Stack |
 |---|---|---|
-| [Job Central](https://jobcentrall.vercel.app) | Free two-sided hiring platform where candidates build portable profiles with auto-parsed resumes and track applications end-to-end, while organizations post roles via a drag-and-drop form builder and review AI-ranked shortlists | Next.js, TypeScript, FastAPI, Supabase, Prisma |
+| [Job Central](https://jobcentrall.vercel.app) | A two-sided hiring platform where candidates build portable profiles with auto-parsed resumes and track applications end-to-end, while organizations post roles via a drag-and-drop form builder and review AI-ranked shortlists | Next.js, TypeScript, FastAPI, Supabase, Prisma |
 | [Gistroom](https://gistroom.vercel.app) | Progressive web app for Nigerians to talk live about local topics. Find friends, chat, call one to one, or join audio rooms for up to 32 people with moderation and invite links. Audio first, data aware, PWA with offline support | Next.js, Socket.IO, LiveKit, Supabase, Prisma |
 | [Credence](https://credencely.vercel.app) | Blockchain credential verification for Nigerian universities, eliminating certificate fraud with Hyperledger Fabric, QR attestations, and instant lookup | Hyperledger Fabric, Next.js, Express, QR Verification, Prisma |
 | [Traqify](https://traqify.vercel.app) | Multi-tenant store management SaaS featuring real-time analytics, role-based access control, public storefronts, and integrated Paystack checkout | Next.js, Express, PostgreSQL, Supabase, Prisma |
