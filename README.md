@@ -2,9 +2,7 @@
 
 Full-stack software engineer based in Lagos, Nigeria. I build software for the happy path, the edge cases, and everything between them. I'm a systems thinker with the heart of a builder. I take ownership from schema to UI, from database to production, and I care about the details that make software reliable in the real world. I prioritize scalable architecture, performant code, and products that are built to last.
 
-I've shipped production systems across SaaS, critical minerals trading, renewable energy, blockchain, AI, e-commerce, healthcare, real estate, ESG compliance, education, and telecommunications, working with international teams across time zones. I start with the system, not the screen: how data flows, where each boundary sits, and what breaks first under real load. Get the structure right and the features follow, and the structure is what still stands years later.
-
-I'm available to work. If you're building something genuinely exciting or you need someone like me on your team, don't be a stranger, [reach out](https://wa.link/nv875h).
+I start with the system, not the screen: how data flows, where each boundary sits, and what breaks first under real load. Get the structure right and the features follow, and the structure is what still stands years later. I'm available to work. If you're building something genuinely exciting or you need someone like me on your team, don't be a stranger, [reach out](https://wa.link/nv875h).
 
 ---
 
